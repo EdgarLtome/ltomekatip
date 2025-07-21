@@ -1,40 +1,62 @@
 Id,Name,Latitude,Longitude,Altitude,Timezone,Recordings_Count,Deployed,Updated
-58714,Elephant Rock 4 - New Site,1.1145,37.469,840.8,Africa/Nairobi,6255,no data,2024-07-31 13:21:26
-60587,Football Field Resting Place,1.1123,37.4604,836.2,Africa/Nairobi,52,no data,2024-07-31 14:01:58
-60582,Lawa,1.1185,37.456,841.8,Africa/Nairobi,16088,no data,2024-07-31 13:57:54
-60581,Lawa2,1.1184,37.4568,841.8,Africa/Nairobi,46239,no data,2024-07-31 13:57:09
-60583,Lawa4,1.1201,37.4575,864.6,Africa/Nairobi,4993,no data,2024-07-31 13:58:41
-58718,Lchura,1.11244,37.474062,798.5,Africa/Nairobi,5666,no data,2024-07-07 09:00:42
-60602,Lesiteti,1.12133,37.46534,,Africa/Nairobi,4570,no data,2024-07-31 14:16:18
-65389,Lmurgusiani (Lturoto),1.0214,37.4019,845.6,Africa/Nairobi,35109,no data,2024-10-21 17:05:17
-58721,Ltepes Corridor,1.11357,37.46995,805.1,Africa/Nairobi,6327,no data,2024-07-07 09:09:55
-58720,Ltepes Corridor 2,1.11613,37.46782,802.5,Africa/Nairobi,50199,no data,2024-07-31 14:07:53
-60577,Ltorot Lolgiria,1.1151,37.4648,841.8,Africa/Nairobi,3540,no data,2024-07-31 13:52:12
-60578,Ltorot Lolgiria 2,1.1135,37.4649,841.8,Africa/Nairobi,39988,no data,2024-07-31 13:52:58
-60580,Nelmasuuti 1,1.1177,37.4655,841.8,Africa/Nairobi,4915,no data,2024-07-31 13:55:22
-60579,Nelmasuuti 2,1.1172,37.4659,841.8,Africa/Nairobi,4279,no data,2024-07-31 13:53:50
-60570,Nelmasuuti 3,1.1173,37.4669,841.8,Africa/Nairobi,2758,no data,2024-07-31 13:12:06
-60572,Nelmasuuti 5,1.1164,37.4691,806.2,Africa/Nairobi,5625,no data,2024-07-31 13:24:19
-60595,Nelmasuuti 6,1.1168,37.4677,800.8,Africa/Nairobi,7403,no data,2024-07-31 14:06:51
-60590,Nkapune Rock Cave,1.1055,37.4599,809.7,Africa/Nairobi,46166,no data,2024-07-31 14:03:54
-65388,Nkongu,1.0142,37.4037,,Africa/Nairobi,36817,no data,2024-10-21 16:56:36
-60571,Nkutoto,1.1177,37.47,841.8,Africa/Nairobi,6518,no data,2024-07-31 13:23:26
-65158,Nkutoto Elmasuuti 3,1.12,37.46805,,Africa/Nairobi,0,no data,2024-10-14 15:55:09
-60597,Nkutoto Elmasuuti 4,1.12104,37.46904,,Africa/Nairobi,3180,no data,2024-07-31 14:08:36
-65159,Quarantine,1.11567,37.46021,,Africa/Nairobi,1094,no data,2024-10-14 15:56:42
-58719,Release Corridor 2,1.1143675,37.47596158,812.54,Africa/Nairobi,5752,no data,2024-07-07 09:03:15
-58722,Releasing Pan,1.1189824,37.4706278,841.8,Africa/Nairobi,32811,no data,2024-07-31 13:10:56
-58710,Reteti House - New water point,1.1126819,37.454303,0,Africa/Nairobi,43603,no data,2024-07-07 09:34:57
-60593,Reteti House Lawai Resting,1.111,37.4543,852.8,Africa/Nairobi,16837,no data,2024-07-31 14:05:57
-60592,Reteti House Road Corridor,1.1071,37.4568,831.3,Africa/Nairobi,24519,no data,2024-07-31 14:04:47
-60588,Reteti Old Road,1.1118,37.4613,826.7,Africa/Nairobi,351,no data,2024-07-31 14:02:55
-58712,Safaricom Rock,1.11851,37.46338,854.2,Africa/Nairobi,47470,no data,2024-07-07 09:04:39
-60573,Safaricom Rock 2,1.1159,37.4647,841.8,Africa/Nairobi,16896,no data,2024-07-31 13:26:51
-69974,sarara main camp,1.0085074,37.3834097,0,Africa/Nairobi,44979,no data,2025-07-07 12:54:10
-65237,Sarara Naado,1.0581,37.4077,845.6,Africa/Nairobi,4819,no data,2024-10-17 11:22:37
-65520,Singing Wells 1,1.0437548,37.4095797,857.21,Africa/Nairobi,17949,no data,2024-10-29 23:16:39
-65387,Singing Wells 2,1.0444,37.4089,845.8,Africa/Nairobi,37358,no data,2024-10-21 16:34:45
-60584,Soito Naarok,1.1203,37.4588,868.1,Africa/Nairobi,3283,no data,2024-07-31 13:59:24
-60585,Soito Naarok Waterpoint,1.1199,37.46,841.8,Africa/Nairobi,4375,no data,2024-07-31 14:01:16
-60603,Stables,1.1147,37.460833,,Africa/Nairobi,2686,no data,2024-07-31 14:17:03
-69249,Tree House,0.9958217,37.4072075,998,Africa/Nairobi,31277,no data,2025-03-06 14:06:52
+66982,Abeja,-1.8392912,-77.8381881,819.2,America/Guayaquil,14330,no data,2024-12-19 12:51:33
+66380,Aja,-1.8374328,-77.8289628,907.6,America/Guayaquil,11786,no data,2024-11-28 10:21:33
+71861,Ampush 6,-1.8419906,-77.8307614,874.2,America/Guayaquil,5415,no data,2025-05-08 18:40:14
+71862,Ampush 8,-1.8419906,-77.8307614,874.2,America/Guayaquil,9030,no data,2025-05-08 18:41:44
+71279,Apai 6,-1.8362201,-77.8350968,934.5,America/Guayaquil,6159,no data,2025-04-23 22:22:59
+71280,Apai 8,-1.8362201,-77.8350968,934.5,America/Guayaquil,9787,no data,2025-04-23 22:23:49
+66984,Arbol Gemelo,-1.8385405,-77.8300568,866.1,America/Guayaquil,15711,no data,2024-12-19 14:34:43
+71893,Asak 6,-1.8421934,-77.8299887,886,America/Guayaquil,1800,no data,2025-05-09 09:47:53
+66985,Camino animal 6,-1.8387969,-77.829497,901.3,America/Guayaquil,14331,no data,2025-05-09 11:14:47
+71927,Camino animal 8,-1.8387969,-77.829497,901.3,America/Guayaquil,4230,no data,2025-05-09 11:15:23
+66395,Casa ratón,-1.8386309,-77.8302353,865.4,America/Guayaquil,12279,no data,2024-11-28 17:25:20
+66378,Chacra,-1.8375442,-77.8293833,940.8,America/Guayaquil,9772,no data,2024-11-28 09:30:23
+71297,Chinchak 8,-1.83535,-77.830545,911.6,America/Guayaquil,6555,no data,2025-04-23 23:58:17
+66125,Chini,-1.8392912,-77.8381881,819.2,America/Guayaquil,10546,no data,2024-11-19 23:54:08
+71292,Esem 6,-1.8434956,-77.8343476,939.6,America/Guayaquil,3324,no data,2025-04-23 23:35:15
+71293,Esem 8,-1.8434956,-77.8343476,939.6,America/Guayaquil,3321,no data,2025-04-23 23:35:59
+63475,Etsa naek,-1.8399963,-77.8318549,949.3,America/Guayaquil,11283,no data,2024-09-19 18:14:34
+71860,Jea 6,-1.8400536,-77.8290682,921.9,America/Guayaquil,5153,no data,2025-05-08 17:52:28
+71281,Jea E 8,-1.8421253,-77.8285107,930.9,America/Guayaquil,5764,no data,2025-04-23 22:32:19
+62564,Jintia,-1.8403749,-77.835488,913.4,America/Guayaquil,13758,no data,2024-09-06 09:31:20
+71285,Kamancha 6,-1.8427785,-77.8396365,818,America/Guayaquil,317,no data,2025-04-23 23:03:10
+66988,Kankap,-1.8418298,-77.8289571,927.1,America/Guayaquil,9215,no data,2024-12-19 22:59:46
+63476,Kashai,-1.8390995,-77.8304255,941.5,America/Guayaquil,11308,no data,2024-09-19 18:17:41
+71814,Keach 48,-1.8391731,-77.8403883,813.3,America/Guayaquil,9809,no data,2025-05-07 17:11:41
+73742,Kunkuk 6,-1.8422539,-77.8337129,878.6,America/Guayaquil,8331,no data,2025-06-05 21:38:05
+66124,Laguna Puach,-1.8391335,-77.8370234,859,America/Guayaquil,6960,no data,2024-11-19 22:26:39
+63469,Mejech,-1.8402241,-77.8361426,872,America/Guayaquil,5399,no data,2024-09-19 14:41:50
+68754,Nam,-1.8388235,-77.839829,780.5,America/Guayaquil,3659,no data,2025-02-19 01:12:42
+63474,Numi Uunt,-1.8401111,-77.8318655,949,America/Guayaquil,6645,no data,2024-09-19 18:08:54
+71288,Osadero de Tuich 6,-1.8390652,-77.8304636,942.3,America/Guayaquil,9428,no data,2025-04-23 23:19:59
+71289,Osadero de Tuich 8,-1.8390652,-77.8304636,942.3,America/Guayaquil,15988,no data,2025-04-23 23:20:48
+65324,Paini,-1.8392733,-77.8382104,881.6,America/Guayaquil,7143,no data,2024-10-17 09:39:58
+71290,Pitiuk 6,-1.8390385,-77.8391409,783,America/Guayaquil,3397,no data,2025-04-23 23:25:18
+71291,Pitiuk 8,-1.8390385,-77.8391409,783,America/Guayaquil,12202,no data,2025-04-23 23:26:41
+66123,Puach,-1.8391335,-77.8370234,859,America/Guayaquil,6660,no data,2024-11-19 20:53:11
+66983,Realce,-1.8409405,-77.8364696,858,America/Guayaquil,16962,no data,2024-12-19 13:49:21
+74707,Realce 6,-1.8409405,-77.8364696,858,America/Guayaquil,9441,no data,2025-06-13 11:02:59
+68752,Sankap,-1.8372089,-77.8422501,744.7,America/Guayaquil,11454,no data,2025-02-18 21:22:34
+71294,Sankap 8,-1.8372089,-77.8422501,744.7,America/Guayaquil,4162,no data,2025-04-23 23:42:20
+66393,Selva Planada,-1.8412596,-77.8366466,870,America/Guayaquil,9843,no data,2024-11-28 16:59:41
+65326,Shuinia,-1.8352395,-77.8310954,922.7,America/Guayaquil,11397,no data,2024-10-17 10:28:33
+71295,Shuinia 6,-1.8350983,-77.831033,920.3,America/Guayaquil,5250,no data,2025-04-23 23:48:20
+63164,Shushui,-1.8410152,-77.8333022,951.8,America/Guayaquil,13869,no data,2024-09-17 14:05:12
+71296,Shushui 8,-1.8410152,-77.8333022,951.8,America/Guayaquil,3206,no data,2025-04-23 23:54:52
+71282,Tauch 6,-1.8396414,-77.837397,833.2,America/Guayaquil,5038,no data,2025-04-23 22:37:51
+63042,Teren,-1.8403696,-77.8354338,933.7,America/Guayaquil,6840,no data,2024-09-14 06:55:00
+71815,Tseik 96,-1.8407214,-77.8287247,914.4,America/Guayaquil,5891,no data,2025-05-07 19:31:04
+71298,Tsentsanka 6,-1.8393318,-77.8286835,904.8,America/Guayaquil,6724,no data,2025-04-24 00:03:04
+71299,Tsentsanka 8,-1.8393318,-77.8286835,904.8,America/Guayaquil,5960,no data,2025-04-24 00:03:44
+63477,Tuich,-1.8390652,-77.8304636,942.3,America/Guayaquil,4681,no data,2024-09-19 18:18:40
+71277,Wampa 6,-1.8411106,-77.8293442,912.5,America/Guayaquil,1562,no data,2025-04-23 22:16:13
+71278,Wampa 8,-1.8411106,-77.8293442,912.5,America/Guayaquil,1651,no data,2025-04-23 22:18:47
+71276,Week,-1.8364657,-77.8349975,927.5,America/Guayaquil,12412,no data,2025-04-23 22:10:38
+71817,Wichim 6,-1.841589,-77.831066,918.7,America/Guayaquil,2770,no data,2025-05-07 21:10:03
+71816,Wichim 8,-1.841589,-77.831066,918.7,America/Guayaquil,2589,no data,2025-05-07 21:09:21
+63467,Yumpinkia,-1.8405246,-77.8364422,877,America/Guayaquil,8450,no data,2024-09-19 14:32:28
+66987,Yurank,-1.838534,-77.8380981,830.9,America/Guayaquil,9477,no data,2024-12-19 15:39:03
+71286,Zona Guadua 6,-1.8387941,-77.8355667,876,America/Guayaquil,14400,no data,2025-04-23 23:05:57
+71287,Zona Guadua 8,-1.8387941,-77.8355667,876,America/Guayaquil,20336,no data,2025-04-23 23:06:48
+71283,Zona kunt 6,-1.8396008,-77.8357492,879,America/Guayaquil,3911,no data,2025-04-23 22:57:20
+71284,Zona Kunt 8,-1.8396008,-77.8357492,879,America/Guayaquil,6728,no data,2025-04-23 22:58:20
