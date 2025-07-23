@@ -424,8 +424,8 @@
       attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
     });
 
-    const siteMap = L.map("map").setView([1.1145, 37.4690], 10);
-    const detectionMap = L.map("detectionMap").setView([1.1145, 37.4690], 10);
+    const siteMap = L.map("map").setView([-1.8312, -78.1834], 10);
+    const detectionMap = L.map("detectionMap").setView([-1.8312, -78.1834], 10);
     
     // Add standard OSM layer to sites map
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png").addTo(siteMap);
@@ -917,9 +917,9 @@
     }
 
     Promise.all([
-      loadCSV('https://raw.githubusercontent.com/douglasmbura/ltomekatip/main/_templates.csv'),
-      loadCSV('https://raw.githubusercontent.com/douglasmbura/ltomekatip/main/sites-export.csv'),
-      loadCSV('https://raw.githubusercontent.com/douglasmbura/ltomekatip/main/species-export.csv')
+      loadCSV('https://raw.githubusercontent.com/EdgarLtome/ltomekatip/main/_templates.csv'),
+      loadCSV('https://raw.githubusercontent.com/EdgarLtome/ltomekatip/main/sites-export.csv'),
+      loadCSV('https://raw.githubusercontent.com/EdgarLtome/ltomekatip/main/species-export.csv')
     ]).then(([templateData, sitesData, speciesData]) => {
       renderSpeciesDashboard(templateData);
       renderSiteDashboard(sitesData, speciesData);
