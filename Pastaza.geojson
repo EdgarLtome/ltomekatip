@@ -1,0 +1,12 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "provincia": "PASTAZA"
+      },
+      "geometry": null
+    }
+  ]
+}
